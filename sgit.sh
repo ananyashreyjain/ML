@@ -1,3 +1,4 @@
+#!/usr/bin/expect -f
 git add --a
 git commit -m $1
 spawn git push origin $2 
