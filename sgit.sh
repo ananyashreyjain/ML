@@ -1,3 +1,4 @@
 git add --a
 git commit -m $1
-echo "ananyashreyjain"|git push origin $2 
+git push origin $2 
+echo "ananyashreyjain"
